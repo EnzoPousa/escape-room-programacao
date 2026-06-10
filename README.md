@@ -17,9 +17,11 @@ Para abrir a porta, acerte a senha numérica de 1 a 100
 ====================
 
 Digite seu palpite: 80
+
 ACESSO NEGADO! O numero digitado é muito ALTO.
 
 Digite seu palpite: 40
+
 ACESSO NEGADO! O numero digitado é muito BAIXO.
 
 Digite seu palpite: **
