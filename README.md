@@ -1,13 +1,15 @@
 #escape-room-programacao - Fuja da sala
 
-Historia do Jogo
+-Historia do Jogo
+
 Você ficou preso em uma sala de servidores do CEUB e agora tem que descobrir a senha de 1 ate 100,
 dicas que serão dadas a cada tentativa errada.
 
-Como Jogar
+-Como Jogar
+
 Execute o codigo em seu terminal e use as dicas para descobrir a senha certa para sair da sala.
 
-Exemplo de como o jogo aparece no terminal
+-Exemplo de como o jogo aparece no terminal
 
 AVISO DE SISTEMA
 
