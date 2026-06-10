@@ -1,0 +1,39 @@
+senha_correta = 77
+
+#Cria a estrutura inicial do codigo e difine a senha secreta.
+
+print("AVISO DE SISTEMA\n")
+print("Você foi trancado na sala de servidores do CEUB!")
+print("Para abrir a porta, acerte a senha numérica de 1 a 100\n")
+print("====================\n")
+
+#Adiciona mensagens de introdução e contexto ao jogo.
+
+palpite = 0
+tentativas = 0
+
+#Adiciona variaveis para controlar os palpites e as tentativas.
+
+while palpite != senha_correta:
+    palpite = int(input("Digite seu palpite: "))
+    tentativas = tentativas + 1
+
+#Estrutura de repetição "while" para rodar o jogo, e adiciona entrada de dados do usuario e contador de rodadas
+
+if palpite == senha_correta:
+        print("VOCÊ ACERTOU A SENHA E A PORTA SE ABRIU!!")
+        print("Total de tentavas:", tentativas)
+
+#Adiciona a condicional "if" para verificar o acerto do usuario
+
+   elif palpite > senha_correta:
+        print("ACESSO NEGADO! O numero digitado é muito ALTO.\n")
+
+#Adiciona o elif para dar uma dica se o numero for muito alto
+
+else:
+        print("ACESSO NEGADO! O numero digitado é muito BAIXO.\n")
+
+#Adiciona o else e da dica se o numero for muito baixo.
+
+
