@@ -18,6 +18,7 @@ while palpite != senha_correta:
     palpite = int(input("Digite seu palpite: "))
     tentativas = tentativas + 1
 
+# "!=" significa "diferente de", ou seja "enquando o palpite for diferente de senha_correta ele somará +1 à tentativas"
 #Estrutura de repetição "while" para rodar o jogo, e adiciona entrada de dados do usuario e contador de rodadas
 
 if palpite == senha_correta:
