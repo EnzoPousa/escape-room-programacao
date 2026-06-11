@@ -3,7 +3,7 @@
 -Historia do Jogo
 
 Você ficou preso em uma sala de servidores do CEUB e agora tem que descobrir a senha de 1 ate 100,
-dicas que serão dadas a cada tentativa errada.
+com a ajuda de dicas que serão dadas a cada tentativa errada.
 
 -Como Jogar
 
